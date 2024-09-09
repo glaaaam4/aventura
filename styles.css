@@ -1,3 +1,4 @@
+
 body {
     background-color: brown;
     color:aliceblue;
@@ -19,4 +20,13 @@ button{
 }
 .paaso.ativo {
     display: block ;
+}
+
+main{
+    text-align: center;
+    max-width: 90%;
+}
+
+img{
+max-width: 90%;
 }
